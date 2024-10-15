@@ -12,31 +12,36 @@ Ces propositions sont répertoriées dans les tickets, taggés "propositions"/"p
 
 This allows contributors to demonstrate the existence of real use cases and gain a concrete understanding of user needs, as well as a more fluid process for contributions, and better visibility for the end users and stakeholders.
 
-
-
-## Types of Contribution
+## Types de contribution
 
 Contributions can be of 4 types:
 
+Les contributions peuvent être de 4 (quatre) types : 
+
+- **Documentation**
 - **Documentation**
 - **Bug fixes** linked to an open bug issue on the `itowns/itowns` repository.
+- **Correction de bug** en réponse à un bug ouvert dans les tickets du dépôt.
 - **Significant improvement of an existing feature or component**
+- **Amélioration significative d'une fonctionnalité existante ou d'un composant**
 - **Addition of a new feature.**
+- **Ajout d'une nouvelle fonctionnalité**
 
 *Note: Proposals are only required for improvements or additions of features. Bug reports are sufficient for proposing a fix.*
+*Note : Les propositions ne sont requises que pour les améliorations ou ajouts de fonctionnalités. Les rapports de bug sont suffisants pour la proposition d'un correctif.*
 
 ## Documentation
 
 Documentation changes can be proposed directly through pull requests. In case of questions or issues with documentation, an issue should be opened, following the same proposal process as other contribution types.
 
-## Bug Discovery and Correction Process
+## Découverte de bug et processus de correction
 
 The entire bug discovery and correction process takes place on the `itowns/itowns` repository
 
 1. A user or contributor submits a bug report through an issue (using the predefined template)
 2. A contributor submits a fix by opening a pull request linked to the corresponding issue in the description
 
-## Significant improvements and new features
+## Amélioration significative et nouvelle fonctionnalité
 
 Significant improvements or new features occur through opening of a dedicated proposal issue on the `itowns/itowns` repository.
 
@@ -65,6 +70,7 @@ The Product Committee can give advice on proposals, considering existing priorit
 If a consensus is reached, or no negative advice from Core Contributor has been expressed 1 month after the last comment on the proposal, it is considered as acceptable, and a pre-approval of the corresponding Pull Request.
 
 ## Implementation & review
+## Mise en oeuvre & révision
 
 After the proposal phase, contributors can:
 - Implement the feature following the chosen solution
@@ -84,6 +90,7 @@ The merge action is achieved by a Core Contributor, who is expected to take resp
 This review phase is simplified as previous discussions around the proposal helped understand the author's intentions and choices.
 
 ## Sponsors Comittee veto
+## Veto du comité de sponsors
 
 **At any point in time, the Sponsors Committee can emit a veto for a proposal or a Pull Request**. This veto must be motivated and its rationale explained in detail, with references to the project's values, processes and global strategy and purpose.
 
