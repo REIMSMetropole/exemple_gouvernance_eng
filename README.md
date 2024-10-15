@@ -7,8 +7,8 @@ Proposition de charte de gouvernance ( 2024 )
 
 le projet #### est ... un projet opensource,  description du projet.
 
-iTowns is an **open-source framework** designed for the **efficient visualization, navigation, and interaction** with **multi-scale 2D and 3D geospatial data** on the **web**.
-Built on the [`three.js`](three) general-purpose 3D library, it enables users to easily build their own customized 3D geographic applications.
+~~iTowns is an **open-source framework** designed for the **efficient visualization, navigation, and interaction** with **multi-scale 2D and 3D geospatial data** on the **web**.
+Built on the [`three.js`](three) general-purpose 3D library, it enables users to easily build their own customized 3D geographic applications.~~
 
 Ce projet est un **commun**, développé collectivement, par une communauté de contributeurs, financiers ou au code, indépendant, public, laboratoires de recherche et entreprises privées.
 
