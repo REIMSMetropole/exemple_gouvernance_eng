@@ -2,32 +2,34 @@
 
 ## Introduction
 
-Before making any contributions, it is important for contributors and the community at large to open discussions ( proposals ) about addition or significant improvement of features.
+~~Before making any contributions, it is important for contributors and the community at large to open discussions ( proposals ) about addition or significant improvement of features.~~
 
 Avant toute contribution, les contributeurs et la communauté (au sens large) discutent (proposent) les ajouts ou modifications importantes des fonctionnalités.
 
-Those proposals are centralized on issues tagged "proposals" in the `iTowns/itowns` repository.
+~~Those proposals are centralized on issues tagged "proposals" in the `iTowns/itowns` repository.~~
 
 Ces propositions sont répertoriées dans les tickets, taggés "propositions"/"proposals" dans le dépôt du code. 
 
 This allows contributors to demonstrate the existence of real use cases and gain a concrete understanding of user needs, as well as a more fluid process for contributions, and better visibility for the end users and stakeholders.
 
+`AA0000` Ceci afin de démontrer aux contributeurs l'existence de cas concrets d'usage et d'apprécier finement les besoins des utilisateurs, mais aussi afin de fluidifier le processus de contribution. Une visibilité accrue pour les utilisateurs et les responsables sera également ? 
+
 ## Types de contribution
 
-Contributions can be of 4 types:
+~~Contributions can be of 4 types:~~
 
 Les contributions peuvent être de 4 (quatre) types : 
 
+~~- **Documentation**~~
 - **Documentation**
-- **Documentation**
-- **Bug fixes** linked to an open bug issue on the `itowns/itowns` repository.
+~~- **Bug fixes** linked to an open bug issue on the `itowns/itowns` repository.~~
 - **Correction de bug** en réponse à un bug ouvert dans les tickets du dépôt.
-- **Significant improvement of an existing feature or component**
+~~- **Significant improvement of an existing feature or component**~~
 - **Amélioration significative d'une fonctionnalité existante ou d'un composant**
-- **Addition of a new feature.**
+~~- **Addition of a new feature.**~~
 - **Ajout d'une nouvelle fonctionnalité**
 
-*Note: Proposals are only required for improvements or additions of features. Bug reports are sufficient for proposing a fix.*
+~~*Note: Proposals are only required for improvements or additions of features. Bug reports are sufficient for proposing a fix.*~~
 *Note : Les propositions ne sont requises que pour les améliorations ou ajouts de fonctionnalités. Les rapports de bug sont suffisants pour la proposition d'un correctif.*
 
 ## Documentation
