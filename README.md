@@ -201,3 +201,7 @@ The release manager may forward the release responsibility to another Core Contr
 [itowns:github]: https://github.com/iTowns/itowns
 [itowns:chan]: todo
 [three]: https://threejs.org/
+
+
+
+adapté du projet de gouvernance rédigé par Oslandia : ajout du lien.
