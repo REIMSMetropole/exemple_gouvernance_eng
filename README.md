@@ -1,16 +1,24 @@
 Governance Proposal ( 2024 )
+
+Proposition de charte de gouvernance ( 2024 )
 ----
 
-## Preamble
+## Préambule
 
-iTowns is an **open-source framework** designed for the **efficient visualization, navigation, and interaction** with **multi-scale 2D and 3D geospatial data** on the **web**.
-Built on the [`three.js`](three) general-purpose 3D library, it enables users to easily build their own customized 3D geographic applications.
+le projet #### est ... un projet opensource,  description du projet.
 
-iTowns is a **geographic commons**, developed collectively by a diverse community of contributors, comprising independent developers, public organizations, research laboratories and private companies.
+~~iTowns is an **open-source framework** designed for the **efficient visualization, navigation, and interaction** with **multi-scale 2D and 3D geospatial data** on the **web**.
+Built on the [`three.js`](three) general-purpose 3D library, it enables users to easily build their own customized 3D geographic applications.~~
 
-The commons is guided by **rules** that safeguard its expansion and the immutability of its open and shared nature.
+Ce projet est un **commun**, développé collectivement, par une communauté de contributeurs, financiers ou au code, indépendant, public, laboratoires de recherche et entreprises privées.
 
-This document formalizes the **core values**, **community structure** and **governance** of the [`iTowns`](itowns) project.
+Le commun est régi par des **règles** qui garantissent son amélioration et l'invariabilité de sa nature partagée et open. 
+
+~~The commons is guided by **rules** that safeguard its expansion and the immutability of its open and shared nature.~~
+
+Ce document formalise les **valeurs fondamentales**, la **structure communautaire** et la **gouvernance** du projet.
+
+~~This document formalizes the **core values**, **community structure** and **governance** of the [`iTowns`](itowns) project.~~
 
 
 ## Values
@@ -193,3 +201,7 @@ The release manager may forward the release responsibility to another Core Contr
 [itowns:github]: https://github.com/iTowns/itowns
 [itowns:chan]: todo
 [three]: https://threejs.org/
+
+
+
+adapté du projet de gouvernance rédigé par Oslandia : ajout du lien.

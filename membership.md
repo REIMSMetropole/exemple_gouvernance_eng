@@ -1,45 +1,23 @@
-This document enumerates the current Sponsors and members of the different committees of the iTowns project.
+Ce document liste les membres des différents comités du projet pgpublisher.
 
 ## Sponsors 
 
-- [IGN](https://www.ign.fr/)
-- [Ciril Group](https://www.cirilgroup.com/)
+## Membres des comités
 
-## Committees members
+### Comité des sponsors (est-ce utile ? )
 
-### Sponsors Committee
+### Comité de projet (CP)
 
-The current members of the sponsors committee are:
+Les membres actuels sont : 
 
-- DAVID Thomas (IGN)
-- GRIVEL Amaël (Ciril Group)
-- MELLIER Guillaume (IGN)
-- PEUZIN Thierry (Ciril Group)
+- MUCKENSTURM Pierre (Communauté Urbaine du Grand Reims)
+- JACOLIN Yves (C2C)
 
-### Product Commitee (PC)
+### Comité technique 
 
-The current members of the PC are : 
-- LAVENANT Antoine (IGN)
-- PICAVET Loïc (Ciril Group)
-- JAILLOT Vincent
-- BOUILLAGUET Quentin
+Les membres actuels du comité sont : 
 
-### Project Steering Committee (PSC)
+### Contributeurs 
 
-Current members of the PSC are : 
+Les contributeurs actuels sont : 
 
-- BOUILLAGUET Quentin
-- JAILLOT Vincent
-- GERMERIE-GUIZOUARN Madec
-
-## Core Contributors
-
-The current Core Contributors are : 
-
-- BOUILLAGUET Quentin
-- CHOQUEUX Gérald
-- GERMERIE-GUIZOUARN Madec
-- JAILLOT Vincent
-- GARNIER Jonathan
-- GULLIENT Anthony
-- TOROMANOFF François
