@@ -5,7 +5,10 @@ Proposition de charte de gouvernance ( 2024 )
 
 ## Préambule
 
-le projet #### est ... un projet opensource,  description du projet.
+Le projet __pgtopg__ est un projet opensource : 
+* de publication de schémas, de table ou de vue, 
+* de base à base, 
+* capable de vérifier les dépendances pour garantir une publication complète.
 
 ~~iTowns is an **open-source framework** designed for the **efficient visualization, navigation, and interaction** with **multi-scale 2D and 3D geospatial data** on the **web**.
 Built on the [`three.js`](three) general-purpose 3D library, it enables users to easily build their own customized 3D geographic applications.~~
@@ -21,7 +24,9 @@ Ce document formalise les **valeurs fondamentales**, la **structure communautair
 ~~This document formalizes the **core values**, **community structure** and **governance** of the [`iTowns`](itowns) project.~~
 
 
-## Values
+## Valeurs
+* Pgtopg est un **commun**, développé collectivement, par différents acteurs. Sa nature **ouverte et partagée** est **immuable**.
+* Pgtopg en tant que **logiciel libre** développé sous licence MIT et CeCILL-B, sa réutilisation ou sa modification sont permises. Son code source est accessible sur (pgtopg) 
 
 - iTowns is a **commons**, developed collectively by a diverse community. Its **open and shared nature** is **immutable**
 - Operating as **free software** under the MIT or CeCILL-B license, it permits unrestricted reuse and modifications, with the source code readily accessible at [https://github.com/iTowns/itowns](itowns:github)
@@ -201,6 +206,7 @@ The release manager may forward the release responsibility to another Core Contr
 [itowns:github]: https://github.com/iTowns/itowns
 [itowns:chan]: todo
 [three]: https://threejs.org/
+[pgtopg]: https://github.com/CUGReims/pgtopg 
 
 
 
