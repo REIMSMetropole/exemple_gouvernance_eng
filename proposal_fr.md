@@ -32,7 +32,8 @@ Le signalement de bugs et leurs corrections sont gérés dans le dépôt de `pgt
 
 ## Amélioration significative et nouvelle fonctionnalité
 
-Significant improvements or new features occur through opening of a dedicated proposal issue on the `itowns/itowns` repository.
+Les améliorations ou nouvelles fonctionnalités sont proposées en ouvrant un ticket de proposition dans le dépôt de `pgtopg`.
+
 
 This can be initiated in two ways:
 - As a community member through an informal discussion. The final feature takes shape through discussions and users feedback.
@@ -42,13 +43,13 @@ This can be initiated in two ways:
 
 *Note: Contributors can still directly open a pull request on the itowns/itowns repository. In this case, it is expected for the pull request to include the same informations as for a proposal issue. PRs submitted without proposal will not likely be prioritized by reviewers.*
 
-The Core Contributors are in charge of verifying the validity of the proposal : 
+Les contributeurs principaux sont chargés de la vérification de l'opportunité et de la validité de la proposition :
 
-- adherence to processes, values and overall project direction
-- technical coherency with existing code base
-- technical quality of the chosen solution.
-- impact on the rest of the codebase.
-- non-regression
+- cohérence des process, valeurs et direction du projet
+- cohérence technique avec le code existant
+- qualité de la solution choisie
+- impact sur le reste du code
+- non-régression
 
 Expressions of non-validity of the proposal must be motivated and their rationale explained, with reference to the values, processes and documents of the project.
 
