@@ -27,16 +27,26 @@ Ce document formalise les **valeurs fondamentales**, la **structure communautair
 ## Valeurs
 * Pgtopg est un **commun**, développé collectivement, par différents acteurs. Sa nature **ouverte et partagée** est **immuable**.
 * Pgtopg en tant que **logiciel libre** développé sous licence MIT et CeCILL-B, sa réutilisation ou sa modification sont permises. Son code source est accessible sur (pgtopg) 
+* Les contributeurs adhèrent aux règles établies et souscrivent au [**code de conduite**](coc)
+* **La révision du code par les pairs** est une condition nécessaire au projet. Le rôle des contributeurs s'accroit via leurs contributions dans le respect des règles fixées.
+* La communauté est souveraine. Elle gouverne librement le projet.
+* **Les améliorations futures** sont publiques et débattues publiquement avant d'être implémentées.
+* Le caractère open-source du projet est une nécessité afin de le maintenir dans **l'état de l'art du développement** 
 
-- iTowns is a **commons**, developed collectively by a diverse community. Its **open and shared nature** is **immutable**
-- Operating as **free software** under the MIT or CeCILL-B license, it permits unrestricted reuse and modifications, with the source code readily accessible at [https://github.com/iTowns/itowns](itowns:github)
-- Contributors must adhere to the established rules and agree to the [**code of conduct**](coc)
-- **Peer reviewing** is a fundamental aspect of the project. Contributors can gain a more significant role by providing high-quality contributions within the established guidelines
-- The community holds **sovereignty** and autonomously exercises governance over the project, free from external authority
-- **Future developments** are publicized and discussed openly before implementation
-- The dynamics of the open-source project are maintained to keep it aligned with **state of the art developments** in the field of 3D geospatial data visualization.
+
+
+- ~~iTowns is a  commons, developed collectively by a diverse community. Its open and shared nature is immutable ~~
+- ~~Operating as free software** under the MIT or CeCILL-B license, it permits unrestricted reuse and modifications, with the source code readily accessible at [https://github.com/iTowns/itowns](itowns:github)~~
+- ~~Contributors must adhere to the established rules and agree to the [code of conduct**](coc)~~
+- ~~Peer reviewing is a fundamental aspect of the project. Contributors can gain a more significant role by providing high-quality contributions within the established guidelines~~
+- ~~The community holds sovereignty and autonomously exercises governance over the project, free from external authority~~
+- ~~Future developments** are publicized and discussed openly before implementation ~~
+- ~~ The dynamics of the open-source project are maintained to keep it aligned with state of the art developments** in the field of 3D geospatial data visualization.~~
 
 ## Roles
+
+- Un **utilisateur** est un individu ou une organisation utilisant `pgtopg`.
+
 
 - A "**User**" encompasses an individual or organization using the `iTowns` framework.
 - A "**Contributor**" refers to any individual or organization actively involved in improvements to the iTowns project, whether through feature development, documentation additions, bug fixes or other contributions to the project.
@@ -201,11 +211,9 @@ The release manager may forward the release responsibility to another Core Contr
 - the project's progress is public and can be tracked at https://github.com/iTowns/itowns/projects?query=is%3Aopen.
 - Anyone can suggest adding a new feature to the roadmap through a proposal.
 
-[coc]: https://www.contributor-covenant.org/fr/version/2/0/code_of_conduct/
-[itowns]: http://www.itowns-project.org/
-[itowns:github]: https://github.com/iTowns/itowns
-[itowns:chan]: todo
-[three]: https://threejs.org/
+
+
+[coc]: https://www.contributor-covenant.org/fr/version/2/0/code_of_conduct/ 
 [pgtopg]: https://github.com/CUGReims/pgtopg 
 
 
