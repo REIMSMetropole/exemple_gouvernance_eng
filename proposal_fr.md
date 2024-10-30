@@ -25,10 +25,10 @@ La documentation peut être modifiée via le process de `pull request`. Toute qu
 
 ## Découverte de bug et processus de correction
 
-The entire bug discovery and correction process takes place on the `itowns/itowns` repository
+Le signalement de bugs et leurs corrections sont gérés dans le dépôt de `pgtopg`.
 
-1. A user or contributor submits a bug report through an issue (using the predefined template)
-2. A contributor submits a fix by opening a pull request linked to the corresponding issue in the description
+1. Un utilisateur ou un contributeur soumet un rapport de bug via les tickets (en utilisant le modèle prédéfini),
+2. Un contributeur soumet une résolution en ouvrant une demande de mise à jour (pull request) en lien avec le problème (numéro du ticket en description)
 
 ## Amélioration significative et nouvelle fonctionnalité
 
