@@ -71,8 +71,7 @@ A Core Committer loses their rights after more than 6 months of inactivity and m
 
 ## Gouvernance et comités
 
-Governance is structured into quickly deployable **committees**, each possessing **well-defined responsibilities** and a **transparent decision-making process**.
-The objective is to ensure clarity and understanding for the `iTowns` project community.
+La gouvernance est organisée en **comités**, dont les **responsabilités sont clairement énoncées**, et autour d'un **process transparent de prise de décision**. Cette méthode a pour objectif de s'assurer la clarté du projet `pgtopg` et sa comprehension par la communauté.
 
 ### Comité de pilotage
 
